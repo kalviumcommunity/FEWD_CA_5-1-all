@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kalviumbooks/static/css/main.fb200e9a.css",
-    "main.js": "/kalviumbooks/static/js/main.097c2056.js",
-    "static/js/787.eacc7264.chunk.js": "/kalviumbooks/static/js/787.eacc7264.chunk.js",
-    "index.html": "/kalviumbooks/index.html",
-    "main.fb200e9a.css.map": "/kalviumbooks/static/css/main.fb200e9a.css.map",
-    "main.097c2056.js.map": "/kalviumbooks/static/js/main.097c2056.js.map",
-    "787.eacc7264.chunk.js.map": "/kalviumbooks/static/js/787.eacc7264.chunk.js.map"
+    "main.css": "/FEWD_CA_5-1-all/static/css/main.fb200e9a.css",
+    "main.js": "/FEWD_CA_5-1-all/static/js/main.0dabe1a5.js",
+    "static/js/787.eacc7264.chunk.js": "/FEWD_CA_5-1-all/static/js/787.eacc7264.chunk.js",
+    "index.html": "/FEWD_CA_5-1-all/index.html",
+    "main.fb200e9a.css.map": "/FEWD_CA_5-1-all/static/css/main.fb200e9a.css.map",
+    "main.0dabe1a5.js.map": "/FEWD_CA_5-1-all/static/js/main.0dabe1a5.js.map",
+    "787.eacc7264.chunk.js.map": "/FEWD_CA_5-1-all/static/js/787.eacc7264.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb200e9a.css",
-    "static/js/main.097c2056.js"
+    "static/js/main.0dabe1a5.js"
   ]
 }
