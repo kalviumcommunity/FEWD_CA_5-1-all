@@ -6,9 +6,10 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const repoName = process.env.PUBLIC_URL.split('/').pop();
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={repoName}>
     <App />
     </BrowserRouter>
     
